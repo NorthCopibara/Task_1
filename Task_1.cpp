@@ -1,4 +1,3 @@
-#include <algorithm>
 #include <iostream>
 
 std::string convert(std::string const& text)
